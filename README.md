@@ -73,7 +73,7 @@ PolicyPal/
 2. **Clone PolicyPal repository:**
 
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/Himanshu7921/PolicyPal-RAG-Agent
    cd PolicyPal
    ```
 
